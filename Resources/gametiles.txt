@@ -1,0 +1,16 @@
+Terrain -------------- (starting map) (Np=Not playable, Se=Sea, Mo=Mountains, Pa=Pasture, Fo=Forest, Fi=Fields, Hi=Hills, De=Dessert, Z*=Harbor)
+Np,Np,Z3,Se,ZG,Se,Np
+Np,Se,Mo,Pa,Fo,ZO,Np
+Np,ZL,Fi,Hi,Pa,Hi,Se
+Se,Fi,Fo,De,Fo,Mo,Z3
+Np,ZB,Fo,Mo,Fi,Pa,Se
+Np,Se,Hi,Fi,Pa,ZW,Np
+Np,Np,Z3,Se,Z3,Se,Np
+Numbers ---------------
+0,0,0,0,0,0,0
+0,0,10,2,9,0,0
+0,0,12,6,4,10,0
+0,9,11,0,3,8,0
+0,0,8,3,4,5,0
+0,0,5,6,11,0,0
+0,0,0,0,0,0,0
