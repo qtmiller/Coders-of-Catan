@@ -5,24 +5,13 @@ Settlers of Catan written in Python to allow developers to write AI players.
 type up a description
 
 ## Installation
-Clone the repository to your desktop.
+Clone the repository to your PC. The game is simulated anytime a 'GameMaster' is instantiated.
 
 ## Usage
-Add basic usage instructions
+Player scripts are to be placed in the player folder. Check the wiki for player development guides and program flow overview. Once your player is developed, add them to the 'player.txt' roster in the "Resources" directory. Best of luck!
 
 ## Contributing
 Add instructions for contributing
 
 ## Credits
 All code is written by Quinn Miller unless otherwise specified.
-
-
-
-
- Description of Folders:
- - Games: 	Contains all game log files. Files are named using the datetime when the file was created.
- - Players: 	All player scripts must be contained here. The class must be named BasePlayer.
- - Reference: 	Supporting documentation for development will be located here including bug reporting.
- - Resources: 	Persistent data needed to setup the game will be stored here.
- - Source: 	Contains all code excluding player AIs. Feel free to inspect.
- - UnitTests:	Created to contain unit tests for each module but importing cross folder was a pain in the ass so it's empty.
